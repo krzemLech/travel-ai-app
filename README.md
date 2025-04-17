@@ -26,3 +26,7 @@ The aplication allows to create personalized trip plans for registered users
 - print it
 
 6. User also has access to a plan list
+
+## POC
+
+Visit [POC here](https://studio--vibetravels-poc.us-central1.hosted.app)
